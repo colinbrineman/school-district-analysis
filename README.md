@@ -35,7 +35,7 @@ I mention below only those statistical tables which have been affected by the re
     - Thomas High School's percentage overall passing decreased 0.3%.
 
 #### Fig 2.1: Old School Summary
-![Fig 2.1: Old School Summary](/resources/Fig_2.1_New_School_Summary.png)
+![Fig 2.1: Old School Summary](/resources/Fig_2.1_Old_School_Summary.png)
 
 #### Fig 2.2: New School Summary
 ![Fig 2.2: New School Summary](/resources/Fig_2.2_New_School_Summary.png)
