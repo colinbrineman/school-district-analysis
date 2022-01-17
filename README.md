@@ -51,7 +51,7 @@ I mention below only those statistical tables which have been affected by the re
 * Scores by school spending
     - Average math and reading scores by school spending were unaffected.
 
-* Scores by school size were unaffected
+* Scores by school size
     - Average math and reading scores by school size were unaffected.
 
 * Scores by school type
